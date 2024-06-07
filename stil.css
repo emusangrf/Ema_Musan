@@ -1,0 +1,19 @@
+/* CSS Document */
+p {
+	color: blue;
+	font-family: Constantia;
+	font-size: 18px;
+	line-height: 20px;
+	width: 600px;
+}
+body{
+	background-image: url("Slike/pozadina.jpg");
+}
+h2, h3{
+	background-color: white;
+	padding:10px;
+	width: 600px;
+}
+img{
+	height: 200px;
+}
